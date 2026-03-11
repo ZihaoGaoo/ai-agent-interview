@@ -1,13 +1,3 @@
-# AI Agent 研发工程师 - 面试复习项目
-
-> 阿里云智能 AI Agent 研发工程师面试复习资料
-> 基于岗位: AI Agent 研发工程师 (AI Coding方向)
-
-## 岗位简介
-
-**部门**: 阿里云智能  
-**方向**: AI Coding - 智能化代码生成和开发工具  
-**地点**: 杭州
 
 ## 核心技术栈
 
@@ -51,7 +41,7 @@ npm install
 npm run start:dev
 ```
 
-## 面试重点
+## 重点
 
 1. **Python 编程**: 扎实的基本功
 2. **大模型技术**: Transformer, LLM 微调, 推理优化
@@ -61,4 +51,3 @@ npm run start:dev
 
 ---
 
-> 面试造火箭，工作拧螺丝 🌾
